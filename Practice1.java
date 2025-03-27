@@ -51,7 +51,7 @@ public class Practice1 {
         BankAccount acc1 = new BankAccount();
         acc1.display();
 
-        BankAccount acc2 = new BankAccount("nirvan", 19201,"nirvan@gmail.com","8588868331");
+        BankAccount acc2 = new BankAccount("abc", 19201,"abc@gmail.com","85");
         acc2.display();
 
         BankAccount acc3 = new BankAccount(acc2);
