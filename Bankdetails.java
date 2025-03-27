@@ -9,10 +9,10 @@ class BankAccount {
 
     
     public BankAccount() { //default
-        this.name = "nirvan";
+        this.name = "abc";
         this.accountNo = 19;
-        this.email = "nirvan@gmail.com";
-        this.phoneNo = "8588868331";
+        this.email = "abc@gmail.com";
+        this.phoneNo = "858";
     }
 
     
